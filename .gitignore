@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+fresh_model/
+
+# Java
+target/
+*.class
+
+# React
+node_modules/
+build/
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.idea/
+.vscode/
+
+# Hugging Face cache
+.cache/
